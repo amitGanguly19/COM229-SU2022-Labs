@@ -1,0 +1,11 @@
+{
+  "name": "com229-su2022-week2",
+  "version": "0.0.1",
+  "description": "demo project for COMP229 in the SU2022 semestera at Centennial college",
+  "main": "server.js",
+  "author": "Amit Ganguly",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}
